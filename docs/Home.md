@@ -1,1 +1,0 @@
-Попытка использовать [[./Knowledge base/Tools/Obsidian/Obsidian|Obsidian]] для базы знаний.
