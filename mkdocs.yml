@@ -1,6 +1,6 @@
 site_name: Some name # Change this to your site name
 site_description: Some description
-site_url: http://fredikats.github.io # Change this to your site URL
+site_url: https://fredikats.github.io/mkdocs-publish/ # Change this to your site URL
 site_author: Author
 
 theme:
